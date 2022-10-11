@@ -1,4 +1,4 @@
-# Kevin Zheng - Personal Website
+# Akshay Jaggi - Personal Website
 
 This website was forked from Academic-Template by markoshorro and built with Bootstrap.
 
